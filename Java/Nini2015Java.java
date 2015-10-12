@@ -1,9 +1,9 @@
-package java;
+package Java;
 
 public class Nini2015Java {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println(" Me var Programisti xo ^_^ :D");
 
 	}
 
